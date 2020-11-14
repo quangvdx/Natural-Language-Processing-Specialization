@@ -1,2 +1,2 @@
 # Natural-Language-Processing-Specialization
-Repo for NLP Specialization
+Repository for Natural Language Processing Specialization on Coursera
